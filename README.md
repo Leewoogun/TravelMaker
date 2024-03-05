@@ -2,7 +2,7 @@
 # SSAFY10th 구미2반 D202 공통 프로젝트 
 ## 구미의 봄 
 
-![노션 아이콘.png](./Readme_Image/노션 아이콘.png) 팀 노션 링크
+팀 노션 링크
 https://gilded-waiter-906.notion.site/d7abea5099a14b018f8b12a37a26fac4
 
 ## 🗼 TravelMaker 소개
